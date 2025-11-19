@@ -1,10 +1,4 @@
-# ✅ **📘 FINAL PROFESSIONAL README.md (Lengthy + Resume-Ready + Polished)**
 
-Copy-paste directly into your GitHub repository.
-
----
-
-```markdown
 # Credit Card Fraud Detection using Machine Learning
 
 Credit card fraud is a major challenge in the financial industry due to the increasing number of online transactions and sophisticated fraud techniques. This project builds a complete **fraud detection pipeline** using classical machine learning models, proper handling of **extreme class imbalance**, and strong evaluation metrics.  
@@ -300,11 +294,3 @@ This project is designed to demonstrate **real-world ML skills**, including:
 * Evaluating models correctly
 * Preparing production-ready documentation
 
-Perfect for use in **resumes, portfolios, GitHub profiles, and technical interviews**.
-
-```
-
-
-
-Just tell me: **"give resume bullets"**, **"write GitHub description"**, or **"write LinkedIn post"**.
-```
