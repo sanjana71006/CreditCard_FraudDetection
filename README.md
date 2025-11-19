@@ -244,27 +244,6 @@ jupyter notebook notebooks/fraud_detection_clean.ipynb
 
 ### 3. Run all cells
 
----
-
-# 📁 Project Structure
-
-```
-credit-card-fraud-detection/
-│
-├── README.md 
-├── requirements.txt
-│
-├── notebooks/
-│   └── fraud_detection_clean.ipynb
-│
-└── src/
-    ├── data_preprocessing.py
-    ├── model_training.py
-    └── evaluation_utils.py
-```
-
----
-
 # 🚀 Future Work
 
 * Add deep learning models (ANN, LSTM)
