@@ -257,10 +257,10 @@ jupyter notebook notebooks/fraud_detection_clean.ipynb
 
 # 👤 Author
 
-**Your Name**
-Machine Learning Enthusiast | Data Analyst
-GitHub: *your-username*
-LinkedIn: *your-profile-link*
+**Sanjana Priya Darshini Kattamuri**
+Machine Learning Enthusiast 
+GitHub: *https://github.com/sanjana71006*
+LinkedIn: *https://www.linkedin.com/in/sanjana-priya-darshini-kattamuri-629790217/*
 
 ---
 
